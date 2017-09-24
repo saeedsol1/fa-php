@@ -95,9 +95,9 @@ class I18N_Arabic_Glyphs
      */         
     public function __construct()
     {
-        $this->_prevLink  = '،؟؛ـئبتثجحخسشصضطظعغفقكلمنهي';
+        $this->_prevLink  = '،؟؛ـئبتثجحخسشصضطظعغفقکلمنهی';
         $this->_nextLink  = 'ـآأؤإائبةتثجحخدذرز';
-        $this->_nextLink .= 'سشصضطظعغفقكلمنهوىي';
+        $this->_nextLink .= 'سشصضطظعغفقکلمنهوىی';
         $this->_vowel     = 'ًٌٍَُِّْ';
 
         /*
@@ -131,7 +131,7 @@ class I18N_Arabic_Glyphs
         $this->_hex    .= 'FEB7FEB8FEB9FEBAFEBBFEBCFEBDFEBEFEBFFEC0FEC1FEC2FEC3FEC4';
         $this->_hex    .= 'FEC5FEC6FEC7FEC8';
 
-        $this->_glyphs .= 'عغفقكلمن';
+        $this->_glyphs .= 'عغفقکلمن';
         $this->_hex    .= 'FEC9FECAFECBFECCFECDFECEFECFFED0FED1FED2FED3FED4FED5FED6';
         $this->_hex    .= 'FED7FED8FED9FEDAFEDBFEDCFEDDFEDEFEDFFEE0FEE1FEE2FEE3FEE4';
         $this->_hex    .= 'FEE5FEE6FEE7FEE8';
